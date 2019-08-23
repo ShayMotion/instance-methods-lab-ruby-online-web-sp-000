@@ -1,11 +1,11 @@
 class Dog
 end
 
-def bark(Dog)
+def bark
   puts "Woof!"
 end
 
-def sit(Dog)
+def sit
   puts "The Dog is sitting"
 end
 
